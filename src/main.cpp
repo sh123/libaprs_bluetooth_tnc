@@ -24,7 +24,7 @@ void aprs_msg_callback(struct AX25Ctx *ctx) {
 }
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   bluetooth.begin(9600);
 
   APRS_init(ADC_REFERENCE, OPEN_SQUELCH);
