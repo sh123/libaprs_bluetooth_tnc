@@ -11,7 +11,6 @@ peripherals:
  * Bluetooth serial adapter
  * Micromodem from marqvist - http://unsigned.io/micromodem/
 
-Requirements
+Building
 ------------
-
- * Customized LibAPRS (aprs_tracker branch, see device.h for arduino ports usage) - https://github.com/sh123/LibAPRS/tree/aprs_tracker
+Use platformio to build and upload.
