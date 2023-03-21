@@ -12,6 +12,8 @@ peripherals:
  * or Micromodem from marqvist - http://unsigned.io/micromodem/
  * Bluetooth serial adapter HC-05/HC-06
 
+&#x26A0; For packet decoding needs additional RC filter on speaker line to overcome handheld transceiver pre-emphasis.
+
 Building
 ------------
 Use platformio to build and upload.
