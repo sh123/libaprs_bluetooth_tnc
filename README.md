@@ -1,6 +1,6 @@
-Arduino bluetooth TNC Modem
+Arduino Bluetooth TNC Modem
 ===========================
-Simple Arduino UNO Bluetooth KISS TNC based on customized version of LibAPRS
+Arduino Nano/Uno Bluetooth KISS TNC based on customized version of LibAPRS
 
 Introduction
 ------------
