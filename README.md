@@ -1,6 +1,6 @@
 Arduino Bluetooth AFSK1200 TNC Modem
 ====================================
-Arduino Nano/Uno Bluetooth KISS AFSK1200 TNC based on customized version of LibAPRS
+Arduino Nano/Uno Bluetooth KISS AFSK1200 TNC based on customized version of LibAPRS.
 
 Introduction
 ------------
